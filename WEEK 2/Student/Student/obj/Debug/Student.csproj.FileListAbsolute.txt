@@ -1,0 +1,7 @@
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Student\Student\bin\Debug\Student.exe.config
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Student\Student\bin\Debug\Student.exe
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Student\Student\bin\Debug\Student.pdb
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Student\Student\obj\Debug\Student.exe
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Student\Student\obj\Debug\Student.pdb

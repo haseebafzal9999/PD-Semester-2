@@ -1,0 +1,14 @@
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class\Business_Class\bin\Debug\Business_Class.exe.config
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class\Business_Class\bin\Debug\Business_Class.exe
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class\Business_Class\bin\Debug\Business_Class.pdb
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class\Business_Class\obj\Debug\Business_Class.csproj.AssemblyReference.cache
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class\Business_Class\obj\Debug\Business_Class.csproj.CoreCompileInputs.cache
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class\Business_Class\obj\Debug\Business_Class.exe
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class\Business_Class\obj\Debug\Business_Class.pdb
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class - Copy\Business_Class\bin\Debug\Business_Class.exe.config
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class - Copy\Business_Class\bin\Debug\Business_Class.exe
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class - Copy\Business_Class\bin\Debug\Business_Class.pdb
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class - Copy\Business_Class\obj\Debug\Business_Class.csproj.AssemblyReference.cache
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class - Copy\Business_Class\obj\Debug\Business_Class.csproj.CoreCompileInputs.cache
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class - Copy\Business_Class\obj\Debug\Business_Class.exe
+F:\SECOND SEMESTER\OOP\Programming Day(PD)\WEEK 2\Business_Class - Copy\Business_Class\obj\Debug\Business_Class.pdb
